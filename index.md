@@ -1,10 +1,10 @@
 ## Welcome to Sneha Sudhakaran Personal Webpage ![Image](https://user-images.githubusercontent.com/30295945/129817019-236a0c4f-f073-49e1-8ffb-9dc43f08c27b.png)
 
 ##### Sneha Sudhakaran 
- PhD Student - Cyber Security
- Louisiana State University
- Baton Rouge, LA 70803
- Email ssudha1@lsu.edu
+ PhD Student - Cyber Security;
+ Louisiana State University;
+ Baton Rouge, LA 70803;
+ Email ssudha1@lsu.edu;
  Ph No: 504-858-7500
 
 ### Education
