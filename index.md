@@ -26,3 +26,26 @@
 Proceedings of the 2nd Annual Industrial Control System Security Workshop, 1-9; 2016
 - A New Cyber Forensic Philosophy for Digital Watermarks in the Context of Copyright Laws; PV Bhattathiripad, S Sudhakaran, R Khalid;
 Association for Digital Forensics Security and Law; 2015
+- Use of Machine Learning Techniques for Log Data Analysis;  K Muniasamy, S Sudhakaran, M Sethumadhavan; Information Security Education and Awareness- INFOSEC DEPOT; 2014
+- Comparison in Honda Algorithm and Neural Network for Anti Cruise Collision Avoidance System;  N Ajayakumar,S Sudhakaran;
+International Journal of Digital Application & Contemporary research 3; 2014
+- An Advanced Approach towards Shadow Detection and Restoration in VHR Images; N Soman, S Sudhakaran; International Journal of Engineering Research and Technology 3 (10); 2014
+
+### Certifications
+- Certified Ethical Hacker, ECC27124931769, Expires Dec 2024
+- Certified Hacking and Forensic Investigator, ECC67147118876, Expires Apr 2025
+
+### Achievements
+- WiCyS(Women in Cyber Security) Student Travel Scholarship 2021 
+- WiCyS(Women in Cyber Security) Student Scholarship 2021 
+- Board of Studies Member - Amrita University 2020-2022 (Cyber Security Curriculum Developement)
+- WiCyS(Women in Cyber Security) Student Scholarship 2020
+- WiCyS Graduate Student Travel Stipend scholarship 2020 
+
+### Technical Membership
+
+- Women In Cyber Security - Student Member
+- Women's Society of Cyberjutsu - Student Member
+- ACM - Association for Computing Machinary
+- IEEE
+- American Association for Forensic Science - Student Affliate
