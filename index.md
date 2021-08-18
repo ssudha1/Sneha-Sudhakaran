@@ -1,7 +1,6 @@
 ## Welcome to Sneha Sudhakaran Personal Webpage
-# Header 1
-## Header 2
-### Header 3
+
+### Sneha Sudhakaran
 
 
 ### Markdown
