@@ -1,14 +1,11 @@
 ## Welcome to Sneha Sudhakaran Personal Webpage
 
 ### Sneha Sudhakaran
-#### PhD Student - Cyber Security
-#### Louisiana State University
-#### Baton Rouge, LA 70803
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###### PhD Student - Cyber Security
+###### Louisiana State University
+###### Baton Rouge, LA 70803
+###### Email ssudha1@lsu.edu
+###### Ph No: 504-858-7500
 
 ```markdown
 Syntax highlighted code block
